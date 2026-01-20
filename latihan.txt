@@ -1,3 +1,4 @@
-baris 1 - latihan membuat file pada gitHub
-baris 2 - menambahkan baris baru
+baris 2 - latihan membuat file pada gitHub
+baris 1 - menambahkan baris baru
 baris 3 - menambahkan baris baru
+baris 4 - merge konflik
